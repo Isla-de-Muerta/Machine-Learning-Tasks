@@ -1,4 +1,4 @@
-# BI-ML1 — Machine Learning Tasks
+# Machine Learning Tasks
 
 **Author:** Islambek Ziyash  
 
